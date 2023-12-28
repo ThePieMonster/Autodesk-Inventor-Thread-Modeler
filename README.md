@@ -1,6 +1,6 @@
 # Autodesk Inventor Thread Modeler
 
-# Description
+## Description
 
 The Thread Modeler tool has been developed to allow Autodesk Inventor users to generate a realistic modeled equivalent thread based on an existing Inventor thread feature. 
 
@@ -10,7 +10,7 @@ Modeled threads are generated saving a lot of time and effort for the user when 
 
 Unfortunately the plugin from the autodesk [store](https://apps.autodesk.com/INVNTOR/en/Detail/Index?id=2540506896683021779&appLang=en&os=Win64) was depreciated around 2023 and no longer works for Inventor versions above 2020.
 
-# Install
+## Install
 
 Copy the `ThreadModeler.bundle` plugin folder to your Autodesk Application Plugin folder.
 `C:\ProgramData\Autodesk\ApplicationPlugins`
