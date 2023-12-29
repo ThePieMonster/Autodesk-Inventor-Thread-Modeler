@@ -14,3 +14,29 @@ Unfortunately the plugin from the autodesk [store](https://apps.autodesk.com/INV
 
 Copy the `ThreadModeler.bundle` plugin folder to your Autodesk Application Plugin folder.
 `C:\ProgramData\Autodesk\ApplicationPlugins`
+
+# Issues
+
+Currently in Inventor 2024, the thread modeler will overextend the created threads as shown in the below image. 
+
+<img src="https://i.imgur.com/Wo3krrC.png" alt="drawing" width="800"/>
+
+<img src="https://i.imgur.com/a8hG55D.png" alt="drawing" width="800"/>
+
+<br/>
+
+This can be fixed by editing the revolve sketch.
+
+<img src="https://i.imgur.com/8C1TKcO.png" alt="drawing" width="800"/>
+
+<br/>
+
+By shorting the rectangle here we can fix the created 3D thread length. 
+
+<img src="https://i.imgur.com/tHMEmz5.png" alt="drawing" width="800"/>
+
+<br/>
+
+Final result. 
+
+<img src="https://i.imgur.com/p1cp9lp.png" alt="drawing" width="800"/>
