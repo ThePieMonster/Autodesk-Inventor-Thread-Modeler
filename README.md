@@ -13,7 +13,8 @@ Unfortunately the plugin from the autodesk [store](https://apps.autodesk.com/INV
 ## Install
 
 Copy the `ThreadModeler.bundle` plugin folder to your Autodesk Application Plugin folder.
-`C:\ProgramData\Autodesk\ApplicationPlugins`
+
+Plugin folder: `C:\ProgramData\Autodesk\ApplicationPlugins`
 
 ## Issues
 
