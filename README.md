@@ -8,7 +8,7 @@ Users are able to select an existing thread feature in the model, which the Thre
 
 Modeled threads are generated saving a lot of time and effort for the user when compared with a manual approach, bringing a higher degree of realism to your models.
 
-Unfortunately the plugin from the autodesk [store](https://apps.autodesk.com/INVNTOR/en/Detail/Index?id=2540506896683021779&appLang=en&os=Win64) was depreciated around 2023 and no longer works for Inventor versions above 2020.
+Unfortunately the plugin from the autodesk [store](https://apps.autodesk.com/INVNTOR/en/Detail/Index?id=2540506896683021779&appLang=en&os=Win64) was depreciated around 2021 and no longer works for Inventor versions above 2020.
 
 ## Install
 
