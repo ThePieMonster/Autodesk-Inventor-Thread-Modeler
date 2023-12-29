@@ -41,3 +41,15 @@ By shorting the rectangle here we can fix the created 3D thread length.
 Final result. 
 
 <img src="https://i.imgur.com/p1cp9lp.png" alt="drawing" width="800"/>
+
+## Development
+
+Autodesk has a [handout](https://www.autodesk.com/autodesk-university/class/Creating-Add-Ins-Inventor-2018#handout) that can help you get started with plugin developement. 
+
+The rundown is this:
+
+- Install Visual Studio Community Edition
+
+- Run `C:\Users\Public\Documents\Autodesk\Inventor 2024\SDK\developertools.msi`
+
+- Open GitHub project solution
