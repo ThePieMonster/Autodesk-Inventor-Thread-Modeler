@@ -15,7 +15,7 @@ Unfortunately the plugin from the autodesk [store](https://apps.autodesk.com/INV
 Copy the `ThreadModeler.bundle` plugin folder to your Autodesk Application Plugin folder.
 `C:\ProgramData\Autodesk\ApplicationPlugins`
 
-# Issues
+## Issues
 
 Currently in Inventor 2024, the thread modeler will overextend the created threads as shown in the below image. 
 
